@@ -1,0 +1,4 @@
+
+UPDATE planning_projet
+			SET createur_id = ''ADM''
+			WHERE createur_id = ''DAN''
